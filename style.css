@@ -45,7 +45,7 @@ header{
 header h1{
   margin-top: 24px;
   font-size: 30px;
-  color: f1f5f9;
+  color: white;
 }
 
 #quiz{
@@ -102,7 +102,7 @@ header h1{
   align-items: center;
   gap: 8px;
 
-  color: e2e3f0;
+  color: white;
 }
 
 input{
